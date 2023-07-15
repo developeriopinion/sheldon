@@ -1,0 +1,24 @@
+    --primary-100:#892CDC;
+    --primary-200:#BC6FF1;
+    --primary-300:#fdf6fd;
+    --accent-100:#D9ACF5;
+    --accent-200:#fff4ff;
+    --text-100:#EEEEEE;
+    --text-200:#FDEBED;
+    --bg-100:#222831;
+    --bg-200:#393E46;
+    --bg-300:#454e59;
+      
+
+    neon downtown lights:
+    --primary-100:#FF00FF;
+    --primary-200:#B300B2;
+    --primary-300:#FFE5FF;
+    --accent-100:#00FFFF;
+    --accent-200:#00B2B3;
+    --text-100:#cccccc;
+    --text-200:#7b7b7b;
+    --bg-100:#141414;
+    --bg-200:#0E0E0E;
+    --bg-300:#131313;
+      
